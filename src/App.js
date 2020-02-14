@@ -6,7 +6,6 @@ import { Button, Label } from 'reactstrap';
 import { Container, InputGroup, InputGroupAddon, Input, Row, Col } from 'reactstrap';
 import axios from 'axios';
 import currencyToSymbolMap from 'currency-symbol-map/map';
-import Appfooter from './components/footer';
 
 
 class App extends React.Component {
