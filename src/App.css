@@ -1,0 +1,22 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  flex-direction: column;
+  background-color: rgb(248, 241, 209);
+}
+
+.maincontainer{
+  width: 35vw;
+  margin-top: 100px;
+}
+.result h1{
+  margin-top: 100px;
+  font-size: 70px;
+}
+.selectclass{
+  background-color: transparent;
+  border: none;
+}
+.footer{
+  float:bottom;
+}
