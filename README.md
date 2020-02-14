@@ -4,7 +4,7 @@ I am new to reactjs and to try out something i have created this app. I am new t
 
 This app basicaly fetches exchange rate from [https://www.exchangerate-api.com/](https://www.exchangerate-api.com/)   and conversion is done Programatically. This app is good starting point for reactjs newbies.
 
-![screenshot](https://drive.google.com/file/d/1_qS9pDRlv44Yf_C2zrgQc9RTfYyPO9Fj/view?usp=sharing)
+![screenshot](https://raw.githubusercontent.com/thetruehuman/currencyconverter/master/screenshots/Screenshot-14-02-2020-20%3A50%3A06-1366x740.png)
 
 #### Dependencies
 * react
@@ -21,5 +21,3 @@ $ git clone https://github.com/thetruehuman/currencyconverter.git
 $ yarn install
 $ yarn start
 ```
-
-
